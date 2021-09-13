@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  operation_management: one
+  operator_allocation: one
+  tenant: one
+  operator: one
+  end_time: 2021-04-27 13:43:03
+  start_time: 2021-04-27 13:43:03
+
+two:
+  operation_management: two
+  operator_allocation: two
+  tenant: two
+  operator: two
+  end_time: 2021-04-27 13:43:03
+  start_time: 2021-04-27 13:43:03

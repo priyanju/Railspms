@@ -1,0 +1,39 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: MyString
+  : 2020-10-16
+  shift_no: MyString
+  part: MyString
+  program_number: MyString
+  cycle_time: 1
+  cutting_time: 1
+  cycle_st_to_st: MyString
+  cycle_stop_to_stop: MyString
+  time: 2020-10-16 11:23:16
+  part_end_time: 2020-10-16 11:23:16
+  cycle_start: 2020-10-16 11:23:16
+  status: 1
+  is_active: false
+  deleted_at: 2020-10-16 11:23:16
+  shifttransaction: one
+  machine: one
+
+two:
+  date: MyString
+  : 2020-10-16
+  shift_no: MyString
+  part: MyString
+  program_number: MyString
+  cycle_time: 1
+  cutting_time: 1
+  cycle_st_to_st: MyString
+  cycle_stop_to_stop: MyString
+  time: 2020-10-16 11:23:16
+  part_end_time: 2020-10-16 11:23:16
+  cycle_start: 2020-10-16 11:23:16
+  status: 1
+  is_active: false
+  deleted_at: 2020-10-16 11:23:16
+  shifttransaction: two
+  machine: two

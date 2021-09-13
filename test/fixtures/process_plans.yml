@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  plan_number: MyString
+  plan_name: MyString
+  part_no: MyString
+  created_by: MyString
+  status: false
+  deleted_at: 2021-04-20 14:56:37
+  tenant: one
+
+two:
+  plan_number: MyString
+  plan_name: MyString
+  part_no: MyString
+  created_by: MyString
+  status: false
+  deleted_at: 2021-04-20 14:56:37
+  tenant: two

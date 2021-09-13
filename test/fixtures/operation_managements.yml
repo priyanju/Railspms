@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  operation_name: MyString
+  operation_id: 1
+  std_cycle_time: 1
+  load_unload_time: 1
+  setup_time: 1
+  created_by: MyString
+  status: 1
+  part_per_cycle: 1
+  deleted_at: 2021-04-21 13:54:44
+  part_configuration: one
+  process_plan: one
+  tenant: one
+
+two:
+  operation_name: MyString
+  operation_id: 1
+  std_cycle_time: 1
+  load_unload_time: 1
+  setup_time: 1
+  created_by: MyString
+  status: 1
+  part_per_cycle: 1
+  deleted_at: 2021-04-21 13:54:44
+  part_configuration: two
+  process_plan: two
+  tenant: two
